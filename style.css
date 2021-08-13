@@ -35,10 +35,10 @@ body{
 
 .panel h3{
     position: absolute;
-    font-size: 35px;
+    font-size: 25px;
     margin: 0;
-    bottom: 30px;
-    left: 30px;
+    bottom: 25px;
+    left: 20px;
     opacity: 0;
     color:white;
     transition: opacity 0.3s ease-in 0.4s;
